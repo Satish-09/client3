@@ -1,0 +1,16 @@
+.slide-in{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 300px;
+    height: 460px;
+    border: 1px skyblue;
+    margin-top: 150px;
+    transition-property: margin-left;
+    transition-duration: 2s;
+    background-color: #dde9f1;
+
+}
+.title{
+    margin-top: 0px;
+}

@@ -1,0 +1,18 @@
+
+.btnclass{
+    /* margin-left: 20px; */
+    /* margin: auto; */
+    display: flex;
+    margin: 100px;
+    border-color: lightblue;
+   
+}
+button {
+    border-radius: 5px;
+    border-color: rgb(118, 118, 185);
+    background-color:rgb(118, 118, 185); 
+    box-shadow: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.button:hover {background-color: #3e8e41}

@@ -1,0 +1,63 @@
+.card {
+  width: 500px;
+  height: 500px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  text-align: center;
+  border-width: 20px;
+  margin: 100px;
+  background-color: rgb(240, 237, 233);
+  position: absolute;
+  margin-left: 1200px;
+
+    margin-top: inherit;
+    height: 693px;
+}
+
+
+
+button.Amount {
+  background-color: aliceblue;
+  border-radius: 10px;
+  height: 30px;
+}
+
+button.Currency {
+  background-color: aliceblue;
+  border-radius: 10px;
+  height: 30px;
+}
+
+button.metadata {
+  background-color: aliceblue;
+  border-radius: 10px;
+  height: 30px;
+}
+
+button.next {
+  background-color: rgb(77, 101, 122);
+  border-radius: 10px;
+  text-align: center;
+  height: 50px;
+  width: 80px;
+  margin-left: 350px;
+  color: azure;
+  font-size: large;
+  margin-top: 35px;
+  font-weight: bolder;
+}
+
+.CondType {
+  background-color: lightgray;
+  justify-content: right;
+  margin-left: 20px;
+  margin-right: 20px;
+  height: 160px;
+  box-shadow: 0 4px 8px 0 rgb(0 0 0 / 20%), 0 6px 20px 0 rgb(0 0 0 / 19%);
+  }
+
+
+.Checktypes {
+  background-color: antiquewhite;
+  display: inline-flex;
+  align-content:space-between;
+}

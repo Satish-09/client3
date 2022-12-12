@@ -1,0 +1,14 @@
+.boxmodel{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 300px;
+    height: 460px;
+    border: 1px solid black;
+    margin-left: 780px;
+    transition-property: margin-left;
+    transition-duration: 2s;
+    background-color: rgb(225, 237, 237);
+
+
+}

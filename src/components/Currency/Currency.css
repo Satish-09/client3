@@ -1,0 +1,40 @@
+.CurrencyType {
+    background-color: lightgray;
+    justify-content: right;
+    margin-left: 20px;
+    margin-right: 20px;
+    height: 265px;
+    border: 0 solid #2e56a7;
+    box-sizing: border-box;
+    box-shadow: #2e56a7;
+    box-shadow: 0 4px 8px 0 rgb(0 0 0 / 20%), 0 6px 20px 0 rgb(0 0 0 / 19%);
+  }
+  button.Done {
+    background-color: rgb(77, 101, 122);
+    border-radius: 20px;
+    text-align: center;
+    height: 50px;
+    width: 80px;
+    margin-left: 350px;
+    color: azure;
+    font-size: large;
+    margin-top: 15px;
+    font-weight: bolder;
+  }
+  .CurrencySelecter{
+    width: 400px;
+    height: 155px;
+
+    border: rgb(70, 68, 68);
+   border-radius: 10px;
+    background-color: azure;
+    box-shadow: 0 4px 8px 0 rgba(210, 220, 216, 0.2), 0 6px 20px 0 rgba(193, 205, 198, 0.19);
+    
+  }
+  h3 {
+    text-align: start;
+    padding-left: 15px;
+    font-size: medium;
+    font-weight: bolder;
+}
+  
